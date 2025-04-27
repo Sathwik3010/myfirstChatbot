@@ -10,7 +10,7 @@ This project demonstrates a simple chat interface for interacting with large lan
 1. **Clone the repository:**
 
    ```bash
-https://github.com/Sathwik3010/myfirstChatbot.git
+      https://github.com/Sathwik3010/myfirstChatbot.git
    ```
 
 2. **Install the required dependencies:**
